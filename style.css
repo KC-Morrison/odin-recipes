@@ -1,0 +1,14 @@
+body {
+	background-color: linen;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: darkcyan;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+ul {
+	list-style: none;
+	font-size: 18px;
+}
